@@ -3,7 +3,6 @@ Awesome List for (and inspired by the works of) [*Douglas Hofstadter*](http://ww
 
 
 ## Pre-*Gödel Escher Bach*  
---
 
 [Hofstadter's Butterfly](https://en.wikipedia.org/wiki/Hofstadter%27s_butterfly)  
 1. Read up on Hofstadter's Butterfly:  
@@ -15,7 +14,7 @@ Awesome List for (and inspired by the works of) [*Douglas Hofstadter*](http://ww
 
 
 ## *Gödel Escher Bach: an Eternal Golden Braid*
---
+
 
 
 ## *Fluid Concepts and Creative Analogies: Computer Models of the Fundamental Mechanisms of Thought*

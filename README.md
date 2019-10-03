@@ -2,9 +2,7 @@
 The Awesome list for (and inspired by the works of) [*Douglas Hofstadter*](http://www.cogs.indiana.edu/people/profile.php?u=dughof).
 
 
-
-![phys_review_b](https://github.com/Alex-Linhares/awesome-hofstadter/blob/master/Phys-Review-B.jpg "Hofstadter, Douglas R. (1976). "Energy levels and wavefunctions of Bloch electrons in rational and irrational magnetic fields". *Physical Review B*. 14 (6): 2239–2249")
-
+![outoutoutoutoutoutout](https://github.com/Alex-Linhares/awesome-hofstadter/blob/master/Phys-Review-B.jpg "Hofstadter, Douglas R. (1976). Energy levels and wavefunctions of Bloch electrons in rational and irrational magnetic fields. *Physical Review B*. 14 (6): 2239–2249")
 ## Pre-*Gödel Escher Bach*  
 
 [Hofstadter's Butterfly](https://en.wikipedia.org/wiki/Hofstadter%27s_butterfly)  
